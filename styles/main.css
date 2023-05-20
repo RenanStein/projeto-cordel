@@ -2,6 +2,11 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Sriracha&display=swap');
 
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
 main section p {
     font-family: 'Sriracha', cursive;
     font-size: 3.5vw;
@@ -11,7 +16,7 @@ main section p {
 main section.container-normal {
     background-color: white;
     color: black;
-    padding: 70px 0px 130px 30px;
+    padding: 70px 0px 100px 30px;
 }
 
 main section.container-image-flor {
