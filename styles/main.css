@@ -16,11 +16,11 @@ main section p {
 main section.container-normal {
     background-color: white;
     color: black;
-    padding: 70px 0px 100px 30px;
+    padding: 70px 0px 70px 30px;
 }
 
 main section.container-image-flor {
-    padding: 70px 0px 30px 30px;
+    padding: 70px 0px 70px 30px;
     background-image: url(../imagens/background001.jpg);
     background-size: cover;
     background-repeat: no-repeat;
@@ -37,7 +37,7 @@ main section.container-image-flor p{
 }
 
 main section.container-image-livro {
-    padding: 70px 0px 30px 30px;
+    padding: 70px 0px 70px 30px;
     background-image: url(../imagens/background002.jpg);
     background-size: cover;
     background-attachment: fixed;
