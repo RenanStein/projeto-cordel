@@ -4,4 +4,44 @@
 
 main section p {
     font-family: 'Sriracha', cursive;
+    font-size: 3.5vw;
+    line-height: 2em;
+}
+
+main section.container-normal {
+    background-color: white;
+    color: black;
+    padding: 70px 0px 130px 30px;
+}
+
+main section.container-image-flor {
+    padding: 70px 0px 30px 30px;
+    background-image: url(../imagens/background001.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: right bottom;
+    box-shadow: inset 1px 1px 13px black;
+}
+
+main section.container-image-flor p{
+    background-color: rgba(0, 0, 0, 0.397);
+    color: white;
+    display: inline-block;
+    padding: 5px;
+}
+
+main section.container-image-livro {
+    padding: 70px 0px 30px 30px;
+    background-image: url(../imagens/background002.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    box-shadow: inset 1px 1px 13px black;
+}
+
+main section.container-image-livro p{
+    background-color: rgba(0, 0, 0, 0.575);
+    color: white;
+    display: inline-block;
+    padding: 5px;
 }
