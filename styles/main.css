@@ -10,6 +10,11 @@ body{
     min-height: 100vh;
 }
 
+section{
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+    padding-left: 30px;
+}
 main section p {
     font-family: 'Sriracha', cursive;
     font-size: 3.5vw;
@@ -19,11 +24,9 @@ main section p {
 main section.container-normal {
     background-color: white;
     color: black;
-    padding: 70px 0px 70px 30px;
 }
 
 main section.container-image-flor {
-    padding: 70px 0px 70px 30px;
     background-image: url(../imagens/background001.jpg);
     background-size: cover;
     background-repeat: no-repeat;
@@ -40,7 +43,6 @@ main section.container-image-flor p{
 }
 
 main section.container-image-livro {
-    padding: 70px 0px 70px 30px;
     background-image: url(../imagens/background002.jpg);
     background-size: cover;
     background-attachment: fixed;
