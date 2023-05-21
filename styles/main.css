@@ -31,7 +31,7 @@ main section.container-image-flor {
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-position: right bottom;
+    background-position: right center;
     box-shadow: inset 1px 1px 13px black;
 }
 
