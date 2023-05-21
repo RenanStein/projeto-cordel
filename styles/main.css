@@ -6,6 +6,9 @@
     padding: 0px;
     margin: 0px;
 }
+body{
+    min-height: 100vh;
+}
 
 main section p {
     font-family: 'Sriracha', cursive;
